@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - Validasi Delete User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea2cfb12-e634-4d12-b257-10fed5f19ba0</testCaseGuid>
+</TestCaseEntity>

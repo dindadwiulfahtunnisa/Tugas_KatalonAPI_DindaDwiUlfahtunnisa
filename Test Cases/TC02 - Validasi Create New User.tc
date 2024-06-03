@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - Validasi Create New User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b10e9b4-29f7-4742-81fc-ffe748de84da</testCaseGuid>
+</TestCaseEntity>
